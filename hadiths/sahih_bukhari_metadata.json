@@ -1,0 +1,614 @@
+[
+  {
+    "volume": "Volume 1",
+    "volume_number": 1,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "1. Revelation",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book1.json",
+        "hadith_count": 6
+      },
+      {
+        "book_number": 2,
+        "book_name": "2. Belief",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book2.json",
+        "hadith_count": 49
+      },
+      {
+        "book_number": 3,
+        "book_name": "3. Knowledge",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book3.json",
+        "hadith_count": 82
+      },
+      {
+        "book_number": 4,
+        "book_name": "4. Ablution (Wudu')",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book4.json",
+        "hadith_count": 111
+      },
+      {
+        "book_number": 5,
+        "book_name": "5. Bathing (Ghusl)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book5.json",
+        "hadith_count": 45
+      },
+      {
+        "book_number": 6,
+        "book_name": "6. Menstrual Periods",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book6.json",
+        "hadith_count": 37
+      },
+      {
+        "book_number": 7,
+        "book_name": "7. Ablution with dust",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book7.json",
+        "hadith_count": 0
+      },
+      {
+        "book_number": 8,
+        "book_name": "8. Prayer (Salat)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book8.json",
+        "hadith_count": 129
+      },
+      {
+        "book_number": 9,
+        "book_name": "9. Prayer Hall (Sutra)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book9.json",
+        "hadith_count": 28
+      },
+      {
+        "book_number": 10,
+        "book_name": "10. Times of the Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book10.json",
+        "hadith_count": 77
+      },
+      {
+        "book_number": 11,
+        "book_name": "11. Call to Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book11.json",
+        "hadith_count": 122
+      },
+      {
+        "book_number": 12,
+        "book_name": "12. Characteristics of Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume1_book12.json",
+        "hadith_count": 134
+      }
+    ]
+  },
+  {
+    "volume": "Volume 2",
+    "volume_number": 2,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "13. Friday Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book1.json",
+        "hadith_count": 63
+      },
+      {
+        "book_number": 2,
+        "book_name": "14. Fear Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book2.json",
+        "hadith_count": 5
+      },
+      {
+        "book_number": 3,
+        "book_name": "15. The Two Festivals (Eids)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book3.json",
+        "hadith_count": 36
+      },
+      {
+        "book_number": 4,
+        "book_name": "16. Witr Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book4.json",
+        "hadith_count": 14
+      },
+      {
+        "book_number": 5,
+        "book_name": "17. Dua' for Rain (Istisqaa)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book5.json",
+        "hadith_count": 31
+      },
+      {
+        "book_number": 6,
+        "book_name": "18. Eclipses",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book6.json",
+        "hadith_count": 23
+      },
+      {
+        "book_number": 7,
+        "book_name": "19. Prostration",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book7.json",
+        "hadith_count": 13
+      },
+      {
+        "book_number": 8,
+        "book_name": "20. Shortening Prayers",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book8.json",
+        "hadith_count": 35
+      },
+      {
+        "book_number": 9,
+        "book_name": "21. Night Prayer (Tahajjud)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book9.json",
+        "hadith_count": 70
+      },
+      {
+        "book_number": 10,
+        "book_name": "22. Actions while Praying",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book10.json",
+        "hadith_count": 41
+      },
+      {
+        "book_number": 11,
+        "book_name": "23. Funerals (Al-Janaa'iz)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book11.json",
+        "hadith_count": 155
+      },
+      {
+        "book_number": 12,
+        "book_name": "24. Tax (Zakat)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book12.json",
+        "hadith_count": 96
+      },
+      {
+        "book_number": 13,
+        "book_name": "25. Tax (Zakat ul Fitr)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book13.json",
+        "hadith_count": 10
+      },
+      {
+        "book_number": 14,
+        "book_name": "26. Pilgrimmage (Hajj)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume2_book14.json",
+        "hadith_count": 235
+      }
+    ]
+  },
+  {
+    "volume": "Volume 3",
+    "volume_number": 3,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "27. Minor Pilgrimmage",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book1.json",
+        "hadith_count": 32
+      },
+      {
+        "book_number": 2,
+        "book_name": "28. Pilgrims Prevented",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book2.json",
+        "hadith_count": 14
+      },
+      {
+        "book_number": 3,
+        "book_name": "29. Prilgrims Hunting Penalty",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book3.json",
+        "hadith_count": 44
+      },
+      {
+        "book_number": 4,
+        "book_name": "30. Virtues of Madinah",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book4.json",
+        "hadith_count": 24
+      },
+      {
+        "book_number": 5,
+        "book_name": "31. Fasting",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book5.json",
+        "hadith_count": 111
+      },
+      {
+        "book_number": 6,
+        "book_name": "32. Ramadan Prayer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book6.json",
+        "hadith_count": 16
+      },
+      {
+        "book_number": 7,
+        "book_name": "33. Stay in Mosque (I'tikaf)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book7.json",
+        "hadith_count": 21
+      },
+      {
+        "book_number": 8,
+        "book_name": "34. Sales and Trade",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book8.json",
+        "hadith_count": 178
+      },
+      {
+        "book_number": 9,
+        "book_name": "35. Paid in Advance",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book9.json",
+        "hadith_count": 20
+      },
+      {
+        "book_number": 10,
+        "book_name": "36. Hiring",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book10.json",
+        "hadith_count": 25
+      },
+      {
+        "book_number": 11,
+        "book_name": "37. Debt Transfer",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book11.json",
+        "hadith_count": 11
+      },
+      {
+        "book_number": 12,
+        "book_name": "38. Business by Proxy",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book12.json",
+        "hadith_count": 18
+      },
+      {
+        "book_number": 13,
+        "book_name": "39. Agriculture",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book13.json",
+        "hadith_count": 28
+      },
+      {
+        "book_number": 14,
+        "book_name": "40. Distributing Water",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book14.json",
+        "hadith_count": 29
+      },
+      {
+        "book_number": 15,
+        "book_name": "41. Loans, Bankruptcy",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book15.json",
+        "hadith_count": 38
+      },
+      {
+        "book_number": 16,
+        "book_name": "42. Lost & Found",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book16.json",
+        "hadith_count": 12
+      },
+      {
+        "book_number": 17,
+        "book_name": "43. Oppressions",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book17.json",
+        "hadith_count": 43
+      },
+      {
+        "book_number": 18,
+        "book_name": "44. Partnership",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book18.json",
+        "hadith_count": 22
+      },
+      {
+        "book_number": 19,
+        "book_name": "45. Mortgaging",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book19.json",
+        "hadith_count": 8
+      },
+      {
+        "book_number": 20,
+        "book_name": "46. Freeing Slaves",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book20.json",
+        "hadith_count": 47
+      },
+      {
+        "book_number": 21,
+        "book_name": "47. Gifts",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book21.json",
+        "hadith_count": 65
+      },
+      {
+        "book_number": 22,
+        "book_name": "48. Witnesses",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book22.json",
+        "hadith_count": 50
+      },
+      {
+        "book_number": 23,
+        "book_name": "49. Peacemaking",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book23.json",
+        "hadith_count": 19
+      },
+      {
+        "book_number": 24,
+        "book_name": "50. Conditions",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume3_book24.json",
+        "hadith_count": 22
+      }
+    ]
+  },
+  {
+    "volume": "Volume 4",
+    "volume_number": 4,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "51. Wills",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book1.json",
+        "hadith_count": 40
+      },
+      {
+        "book_number": 2,
+        "book_name": "52. Jihaad",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book2.json",
+        "hadith_count": 288
+      },
+      {
+        "book_number": 3,
+        "book_name": "53. One-fifth of Booty",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book3.json",
+        "hadith_count": 89
+      },
+      {
+        "book_number": 4,
+        "book_name": "54. Begining of Creation",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book4.json",
+        "hadith_count": 130
+      },
+      {
+        "book_number": 5,
+        "book_name": "55. Prophets",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book5.json",
+        "hadith_count": 116
+      },
+      {
+        "book_number": 6,
+        "book_name": "56. Merits of Sunnah",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume4_book6.json",
+        "hadith_count": 183
+      }
+    ]
+  },
+  {
+    "volume": "Volume 5",
+    "volume_number": 5,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "57. The Companions",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume5_book1.json",
+        "hadith_count": 119
+      },
+      {
+        "book_number": 2,
+        "book_name": "58. Merits of Al-Ansaar",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume5_book2.json",
+        "hadith_count": 165
+      },
+      {
+        "book_number": 3,
+        "book_name": "59. Expeditions",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume5_book3.json",
+        "hadith_count": 465
+      }
+    ]
+  },
+  {
+    "volume": "Volume 6",
+    "volume_number": 6,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "60. Prophetic Commentary",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume6_book1.json",
+        "hadith_count": 501
+      },
+      {
+        "book_number": 2,
+        "book_name": "61. Virtues of the Qur'an",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume6_book2.json",
+        "hadith_count": 82
+      }
+    ]
+  },
+  {
+    "volume": "Volume 7",
+    "volume_number": 7,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "62. Marriage",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book1.json",
+        "hadith_count": 177
+      },
+      {
+        "book_number": 2,
+        "book_name": "63. Divorce",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book2.json",
+        "hadith_count": 86
+      },
+      {
+        "book_number": 3,
+        "book_name": "64. Supporting Family",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book3.json",
+        "hadith_count": 23
+      },
+      {
+        "book_number": 4,
+        "book_name": "65. Food, Meals",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book4.json",
+        "hadith_count": 90
+      },
+      {
+        "book_number": 5,
+        "book_name": "66. Sacrifice on Birth",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book5.json",
+        "hadith_count": 9
+      },
+      {
+        "book_number": 6,
+        "book_name": "67. Hunting, Slaughter",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book6.json",
+        "hadith_count": 69
+      },
+      {
+        "book_number": 7,
+        "book_name": "68. Al-Adha Sacrifice",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book7.json",
+        "hadith_count": 28
+      },
+      {
+        "book_number": 8,
+        "book_name": "69. Drinks",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book8.json",
+        "hadith_count": 63
+      },
+      {
+        "book_number": 9,
+        "book_name": "70. Patients",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book9.json",
+        "hadith_count": 38
+      },
+      {
+        "book_number": 10,
+        "book_name": "71. Medicine",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book10.json",
+        "hadith_count": 92
+      },
+      {
+        "book_number": 11,
+        "book_name": "72. Dress",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume7_book11.json",
+        "hadith_count": 180
+      }
+    ]
+  },
+  {
+    "volume": "Volume 8",
+    "volume_number": 8,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "73. Good Manners",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book1.json",
+        "hadith_count": 247
+      },
+      {
+        "book_number": 2,
+        "book_name": "74. Asking Permission",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book2.json",
+        "hadith_count": 72
+      },
+      {
+        "book_number": 3,
+        "book_name": "75. Invocations",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book3.json",
+        "hadith_count": 104
+      },
+      {
+        "book_number": 4,
+        "book_name": "76. Softening the Heart",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book4.json",
+        "hadith_count": 173
+      },
+      {
+        "book_number": 5,
+        "book_name": "77. Divine Will (Qadar)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book5.json",
+        "hadith_count": 25
+      },
+      {
+        "book_number": 6,
+        "book_name": "78. Oaths and Vows",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book6.json",
+        "hadith_count": 81
+      },
+      {
+        "book_number": 7,
+        "book_name": "79. Unfulfilled Oaths",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book7.json",
+        "hadith_count": 17
+      },
+      {
+        "book_number": 8,
+        "book_name": "80. Inheritance Laws",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book8.json",
+        "hadith_count": 47
+      },
+      {
+        "book_number": 9,
+        "book_name": "81. Punishment Laws",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book9.json",
+        "hadith_count": 31
+      },
+      {
+        "book_number": 10,
+        "book_name": "82. Disbelievers (war)",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume8_book10.json",
+        "hadith_count": 51
+      }
+    ]
+  },
+  {
+    "volume": "Volume 9",
+    "volume_number": 9,
+    "books": [
+      {
+        "book_number": 1,
+        "book_name": "83. Blood Money",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book1.json",
+        "hadith_count": 53
+      },
+      {
+        "book_number": 2,
+        "book_name": "84. Dealing with Apostates",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book2.json",
+        "hadith_count": 20
+      },
+      {
+        "book_number": 3,
+        "book_name": "85. Under Duress",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book3.json",
+        "hadith_count": 12
+      },
+      {
+        "book_number": 4,
+        "book_name": "86. Tricks",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book4.json",
+        "hadith_count": 27
+      },
+      {
+        "book_number": 5,
+        "book_name": "87. Interpretations of Dreams",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book5.json",
+        "hadith_count": 59
+      },
+      {
+        "book_number": 6,
+        "book_name": "88. End of the World",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book6.json",
+        "hadith_count": 81
+      },
+      {
+        "book_number": 7,
+        "book_name": "89. Judgments",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book7.json",
+        "hadith_count": 81
+      },
+      {
+        "book_number": 8,
+        "book_name": "90. Wishes",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book8.json",
+        "hadith_count": 20
+      },
+      {
+        "book_number": 9,
+        "book_name": "91. Truthfull Word",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book9.json",
+        "hadith_count": 21
+      },
+      {
+        "book_number": 10,
+        "book_name": "92. Holding Steadfast",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book10.json",
+        "hadith_count": 97
+      },
+      {
+        "book_number": 11,
+        "book_name": "93. Oneness of Allah",
+        "path": "hadiths/sahih_bukhari/sahih_bukhari_volume9_book11.json",
+        "hadith_count": 187
+      }
+    ]
+  }
+]
